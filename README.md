@@ -1,19 +1,23 @@
 # Sales_Financial-Dashboard-
 
-This dashboard provides a clear overview of company sales performance using 50 records of product-level data. It highlights total revenue, product-wise contribution, sales trends, and key performance indicators. The visualizations help quickly understand which products perform well and how sales quantities affect overall business revenue.
+This Sales & Financial Dashboard provides a clear and interactive overview of business performance. It highlights key financial metrics, customer insights, product performance, and regional contributions. The visuals make it easy to identify trends and support data-driven decision-making.
 
+✨ Key Features
 
-**✨ Key Features**
+Total Revenue, Total Orders, and Total Customers displayed as high-level KPIs.
 
-**Total Sales Overview**: Shows total revenue generated from all products.
+Monthly Financial Trend Line Chart to track revenue patterns over time.
 
-**Product-wise Performance**: Bar/column charts identify top-selling products by quantity and revenue.
+Top 5 Customers ranked by their total revenue contribution.
 
-**Average Price Analysis**: Displays how pricing varies across product categories.
+Top 5 Products visualizing product-wise performance.
 
-**Sales Quantity Breakdown**: Visualizes which products contribute the most volume.
+Sales by Region for geographic insights.
 
-**Interactive Visuals**: Clean and easy-to-read charts for better decision-making.
+Payment Mode Breakdown to understand customer preferences.
+
+Clean, minimal, and easy-to-read dashboard design.
+
 
 <img width="1359" height="748" alt="Screenshot 2025-11-14 164306" src="https://github.com/user-attachments/assets/ba753773-b768-497c-b0cc-cd673f8a83a6" />
 <img width="1352" height="747" alt="Screenshot 2025-11-14 164329" src="https://github.com/user-attachments/assets/3fb03131-1b9c-42ab-a109-2e0c7609c9af" />
@@ -22,12 +26,24 @@ This dashboard provides a clear overview of company sales performance using 50 r
 
 **✅ Conclusions**
 
-Laptop and Phone generated the highest revenue due to high price points.
+A small set of top customers contribute a significant portion of total revenue.
 
-Headphones had the highest sales quantity, indicating strong demand despite lower price.
+Key regions drive most sales, highlighting strong market presence in specific locations.
 
-The company’s revenue is driven mainly by 3 product categories, showing a simple but stable product mix.
+Top-selling products account for the majority of revenue, indicating core revenue drivers.
 
-Pricing strategy appears consistent across each product category (same unit price in the dataset).
+Customers show a strong preference for digital and card-based payment modes.
 
-Increasing stock and promotions for high-quantity products like Headphones could further increase revenue.
+Monthly revenue chart shows clear peaks and dips, suggesting seasonal trends or campaign impacts.
+
+
+
+**📁 Tools Used**
+
+Power BI for dashboard creation
+
+Excel/CSV dataset as source data
+
+Data cleaning and transformation using Power Query
+
+DAX measures for KPIs and calculations
