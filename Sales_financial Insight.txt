@@ -1,0 +1,75 @@
+Sales_financial Insight 
+
+⭐ 1. Overall Sales & Profit Insights
+
+The business generated ₹3.73M in total sales and ₹3.71M in profit, indicating very high profitability.
+
+Profit Margin is 56.25%, showing strong pricing and cost management.
+
+Total orders processed = 5000.
+
+Only 2 cities (NSW & VIC) contribute to all revenue.
+
+⭐ 2. Product Category Insights
+
+Office Supplies is the top-performing product category, contributing the majority of sales.
+
+Technology shows moderate sales volume.
+
+Furniture has very low sales, suggesting either low demand or limited product availability.
+
+Discounts are highest for Office Supplies, reaching nearly 200K.
+
+⭐ 3. Monthly Trends Insights
+
+Sales and shipping costs show clear seasonal patterns.
+
+Peak months for revenue and shipping:
+
+May, August, October
+
+Lowest activity occurs in:
+
+February and March
+
+Shows opportunities for seasonal promotions.
+
+⭐ 4. Shipping Insights
+
+Total Shipping Cost = 27.32K, average ~5.46 per order.
+
+Regular Air is used for 84.72% of orders → reliable but may be increasing logistics cost.
+
+Express Air and Delivery Truck are used much less.
+
+Shipping days average 2.65 days, showing efficient operations.
+
+⭐ 5. State / Region Insights
+
+VIC generates the maximum profit (~2.6M), outperforming NSW (~1.1M).
+
+VIC has many high-value customers.
+
+NSW contributes less, indicating potential growth opportunities.
+
+⭐ 6. Customer Type Insights
+
+Corporate customers generate the largest share of sales (~1.37M).
+
+Small Business and Home Office segments also perform well.
+
+Consumer segment drives smaller but steady sales.
+
+⭐ 7. Order Priority Insights
+
+High-priority and critical orders primarily use Express Air, ensuring fast delivery.
+
+Regular orders mostly use Regular Air, providing operational consistency.
+
+Shows efficient alignment between priority and shipping mode.
+
+⭐ 8. Customer-Level Insights (Table section)
+
+Some customers like Aaron Bergman, Aaron Smayling, and Adam Bellavance have very high individual order totals.
+
+Melbourne customers tend to place larger orders compared to Sydney.
